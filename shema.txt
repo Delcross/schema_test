@@ -1,4 +1,5 @@
 Bonjour
 Bonsoir
+Comment ça va ?
 Bonne journée
 Merci
